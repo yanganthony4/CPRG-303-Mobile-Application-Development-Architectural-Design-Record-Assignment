@@ -1,5 +1,5 @@
 ADR 1: 
-    Native, Web, or Hybrid Applicaiton?
+    Native, Web, or Hybrid Application?
 
 Status: 
     Accepted
